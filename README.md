@@ -3,7 +3,7 @@
 ## Matlab üzerinden EKG verileri aracılığıyla kalp atış hızı 
 
 
-Kullanılan ham verilerin txt dökümanı ve gerçekleştirilen uygulamaya ait video linki :
+Kullanılan hazır ham verilerin txt dökümanı ve gerçekleştirilen uygulamaya ait video linki :
 
 http://eleceng.dit.ie/dorran/matlab/
 
