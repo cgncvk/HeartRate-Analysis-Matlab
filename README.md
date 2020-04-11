@@ -1,4 +1,4 @@
-# Kalp Atış hızı/Nabız-Analizi
+# Kalp Atış hızı/Nabız Analizi
 
 ## Matlab üzerinden EKG verileri aracılığıyla kalp atış hızı 
 
